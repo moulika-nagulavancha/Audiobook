@@ -1,0 +1,12 @@
+Create-your-own-Audiobook:
+This Python script reads a PDF file, extracts the text and converts the text to audio. 
+Just make sure that the PDF file is in the same folder.
+
+Getting Started
+Add the PDF file to the folder. 
+Replace the name of the pdf file in code: 'Learn Microservices with Spring Boot.pdf.pdf' with the name of your file. 
+
+
+Built With
+pyttsx3 library
+PyPDF2 library
