@@ -1,2 +1,1 @@
-# Python3
-small do-able projects in python
+# Audio boook project using python
